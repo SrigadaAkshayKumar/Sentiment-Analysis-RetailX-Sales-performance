@@ -23,4 +23,4 @@ This project is a comprehensive analysis of sales data from RetailX, a fictional
 - **Documentation:** Any additional documentation related to the project, such as project requirements, methodology, and findings.
 
 ## DashBoard
-![Sales Analysis Dashboard](images/dashboard.png)
+![Sales Analysis Dashboard](Sales-Analysis-DashBoard.png)
